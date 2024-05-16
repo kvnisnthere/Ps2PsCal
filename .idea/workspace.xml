@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="T2PC" targetName="T2PC" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa9eae39-9809-4829-a54a-4424f9087f30" name="Changes" comment="v1.0.2&#10;renamed variables and cut down unnecessary notes and empty lines." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kvnisnthere" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="2gSwiWV9xbMlZLXFhWLREJ3e8TY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/kvnkh/CLionProjects/Ps2PsCal",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "structure.view.defaults.are.configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="T2PC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="T2PC" TARGET_NAME="T2PC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="T2PC" RUN_TARGET_NAME="T2PC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa9eae39-9809-4829-a54a-4424f9087f30" name="Changes" comment="" />
+      <created>1715704414262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715704414262</updated>
+      <workItem from="1715704416001" duration="4507000" />
+      <workItem from="1715777628041" duration="9882000" />
+      <workItem from="1715788188397" duration="111000" />
+      <workItem from="1715788301113" duration="872000" />
+      <workItem from="1715789178456" duration="62000" />
+      <workItem from="1715789284357" duration="588000" />
+      <workItem from="1715795820590" duration="456000" />
+      <workItem from="1715796433048" duration="251000" />
+      <workItem from="1715796727956" duration="359000" />
+      <workItem from="1715798601874" duration="752000" />
+      <workItem from="1715873801336" duration="5251000" />
+      <workItem from="1715879124559" duration="504000" />
+      <workItem from="1715879682242" duration="381000" />
+      <workItem from="1715880076232" duration="52000" />
+      <workItem from="1715880135965" duration="155000" />
+    </task>
+    <task id="LOCAL-00001" summary="added date to cpp file">
+      <created>1715789572670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715789572670</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added input at end to stop from closing prematurely&#10;compiled as exe.">
+      <created>1715796789660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715796789660</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added input at end to stop from closing prematurely&#10;compiled as exe.">
+      <created>1715796812041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715796812041</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added input at end to stop from closing prematurely&#10;compiled as exe.">
+      <created>1715799329048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715799329048</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v1.0.2&#10;renamed variables and cut down unnecessary notes and empty lines.">
+      <created>1715878173646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715878173646</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v1.0.2&#10;renamed variables and cut down unnecessary notes and empty lines.">
+      <created>1715878460455</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715878460455</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v1.0.2&#10;renamed variables and cut down unnecessary notes and empty lines.">
+      <created>1715879206744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715879206744</updated>
+    </task>
+    <task id="LOCAL-00008" summary="v1.0.2&#10;renamed variables and cut down unnecessary notes and empty lines.">
+      <created>1715879353110</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715879353110</updated>
+    </task>
+    <task id="LOCAL-00009" summary="v1.0.2&#10;renamed variables and cut down unnecessary notes and empty lines.">
+      <created>1715879821468</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715879821468</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="added date to cpp file" />
+    <MESSAGE value="added input at end to stop from closing prematurely&#10;compiled as exe." />
+    <MESSAGE value="v1.0.2&#10;renamed variables and cut down unnecessary notes and empty lines." />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0.2&#10;renamed variables and cut down unnecessary notes and empty lines." />
+  </component>
+</project>
